@@ -6,5 +6,6 @@ setup(name='strcap',
       description='Simple extension of string.',
       platforms='Python2.X',
       author_email='luoxin_T_T@outlook.com',
+      url='https://github.com/LuoxinY/strcap',
       py_modules=['work01'],
 )
